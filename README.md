@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hey, I'm Shivam!
 
-<!--
-**chaurasiya-shivam/chaurasiya-shivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning to code one bug at a time.
+🚀 Building things, breaking things, fixing things... and repeating. 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 IT Student
+* 🌱 Currently learning programming & web development
+* 💡 Exploring different technologies in my own way
+* 🛠️ Building projects while learning
+* ☕ Powered by code, curiosity & probably too much debugging
+
+---
+
+## 🚀 What I'm Learning
+
+```text
+HTML       █████████░░  80%
+CSS        ████████░░░  70%
+JavaScript ██████░░░░░  60%
+React      ████░░░░░░░  40%
+Node.js    ███░░░░░░░░  30%
+MongoDB    ███░░░░░░░░  30%
+```
+
+---
+
+## 😂 Developer Status
+
+```text
+Code      → 💻
+Bug       → 🐛
+Google    → 🔎
+Stack     → Overflow
+Me        → 🤨
+```
+
+---
+
+## 🤨 Wanna Meet Me?
+
+Run this in your terminal:
+
+```bash
+npx chaurasiyashivam
+```
+
+And let the terminal do the introduction. 😎
+
+---
+
+## 📊 GitHub
+
+> "I'm not a professional developer yet.
+> I'm just professionally learning how to become one."
+
+---
+
+### ⭐ Thanks for visiting!
+
+If you found something interesting here, feel free to explore my repositories.
+
