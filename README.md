@@ -28,15 +28,6 @@ MongoDB    ███░░░░░░░░  30%
 
 ---
 
-## 😂 Developer Status
-
-```text
-Code      → 💻
-Bug       → 🐛
-Google    → 🔎
-Stack     → Overflow
-Me        → 🤨
-```
 
 ---
 
@@ -59,7 +50,5 @@ And let the terminal do the introduction. 😎
 
 ---
 
-### ⭐ Thanks for visiting!
 
-If you found something interesting here, feel free to explore my repositories.
 
