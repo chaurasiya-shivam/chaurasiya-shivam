@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shivam Chaurasiya from earth🌍!
+# 👋 Hey, I'm Shivam Chaurasiya !
 
 💻 Learning to code one bug at a time.
 🚀 Building things, breaking things, fixing things... and repeating. 😄
